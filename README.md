@@ -8,6 +8,4 @@ Poupe Certo é um sistema web desenvolvido como parte de um projeto acadêmico, 
 - CSS3: Para estilização responsiva e uma interface atraente.
 
 ##📸 DEMOSTRAÇÃO
--Pagina Inicial
-![image](https://github.com/user-attachments/assets/2d06562e-9522-4985-84b4-5538b7b7d6d3)
-
+![image](https://github.com/user-attachments/assets/1f1d71b6-71ec-429a-81f6-6d457fec1db6)
